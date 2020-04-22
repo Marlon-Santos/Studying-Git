@@ -6,4 +6,6 @@
     box-sizing: border-box;
     color: white;
     border-radius: 2px;
+    border-bottom: 20px;
+    border: 50px;
 }
